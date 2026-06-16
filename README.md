@@ -1,7 +1,8 @@
 # Guerra-Elemental
 "Guerra Elemental" é um jogo que estou desenvolvendo em C, ele é um pouco simples e está sendo feito para praticar tudo que tenho aprendido até agora na linguagem C.
 
-Descrição Geral 
+Descrição Geral
+
 Guerra Elemental é um jogo de batalha por turnos onde o jogador 
 escolhe uma criatura elemental para enfrentar uma criatura 
 controlada pelo computador. 
